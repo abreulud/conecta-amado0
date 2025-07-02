@@ -1,0 +1,9 @@
+{
+  "ADMIN_EMAIL": "admin@seusistema.com",
+  "ADMIN_PASSWORD": "senhaSuperForte123!",
+  "MAIL_URL": "",
+  "public": {
+    "appName": "ConectaAmado",
+    "supportEmail": ""
+  }
+}
